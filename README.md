@@ -2,8 +2,8 @@
 
 I'm **Gameplay/Tools programmer** for video games ! 
 
-My skills : Lua, C, C++, C#, Unity, Unreal, SFML, Love2D and Tortoise SVN 👍
-I use FMOD frequently, and I have notion about : HLSL/Compute shaders, SQL/SQLite, Windows Form, Batch, VBS, Wwise !
+1. My skills : Lua, C, C++, C#, Unity, Unreal, SFML, Love2D and Tortoise SVN 👍
+1. I use FMOD frequently, and I have notion about : HLSL/Compute shaders, SQL/SQLite, Windows Form, Batch, VBS, Wwise !
 
 If you want to know more about me, I redirect you to my [LinkedIn Page](https://www.linkedin.com/in/marc-charre/) 😃
 
