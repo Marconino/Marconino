@@ -7,14 +7,17 @@ I use FMOD frequently, and I have notion about : HLSL/Compute shaders, SQL/SQLit
 
 If you want to know more about me, I redirect you to my [LinkedIn Page](https://www.linkedin.com/in/marc-charre/) 😃
 
-I made theses personnal projects, if you interested about my work : 
 
-_Progress state :_
-_Comming soon =_ `#1ABEE2`
-_Currently working on it =_ `#E2A21A`
-_Finished/Not going to be updated =_ `#36E21A`
+### I made theses personnal projects, if you interested about my work : 
+
+- _**Progress state :**_
+  - _Finished/Not going to be updated =_ 🟩
+  - _Currently working on it =_ 🟧
+  - _Coming soon =_ 🟦
 
 
-- `#E2A21A` [Procedural map generation](https://github.com/Marconino/ProceduralGeneration) in Unity, using Marching Cubes algorithm 
-- `#36E21A` [Save system in JSON](https://github.com/Marconino/JsonSerialization) in Unity, using C# reflection
-- `#1ABEE2` Bracelet creator, in Unity/Shopify for [Stylenza](https://stylenzamineraux.fr/) crystal shop
+
+#### 🟦 Bracelet creator, in Unity/Shopify for [Stylenza](https://stylenzamineraux.fr/) crystal shop
+#### 🟧 [Procedural map generation](https://github.com/Marconino/ProceduralGeneration) in Unity, using Marching Cubes algorithm 
+#### 🟩 [Save system in JSON](https://github.com/Marconino/JsonSerialization) in Unity, using C# reflection
+
