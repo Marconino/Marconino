@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Marconino/Marconino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Gameplay/Tools programmer** for video games ! 
 
-Here are some ideas to get you started:
+My skills : Lua, C, C++, C#, Unity, Unreal, SFML, Love2D and Tortoise SVN 👍
+I use FMOD frequently, and I have notion about : HLSL/Compute shaders, SQL/SQLite, Windows Form, Batch, VBS, Wwise !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to know more about me, I redirect you to my [LinkedIn Page](https://www.linkedin.com/in/marc-charre/) 😃
+
+I made theses personnal projects, if you interested about my work : 
+
+_Progress state :_
+_Comming soon =_ `#1ABEE2`
+_Currently working on it =_ `#E2A21A`
+_Finished/Not going to be updated =_ `#36E21A`
+
+
+- `#E2A21A` [Procedural map generation](https://github.com/Marconino/ProceduralGeneration) in Unity, using Marching Cubes algorithm 
+- `#36E21A` [Save system in JSON](https://github.com/Marconino/JsonSerialization) in Unity, using C# reflection
+- `#1ABEE2` Bracelet creator, in Unity/Shopify for [Stylenza](https://stylenzamineraux.fr/) crystal shop
