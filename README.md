@@ -11,7 +11,7 @@ I'm **Gameplay/Tools programmer** for video games !
 
 ## I made theses personnal projects, if you interested about my work : 
 
-#### 🟦 Bracelet creator, in Unity/Shopify for [Stylenza](https://stylenzamineraux.fr/) crystal shop
+#### 🟦 [Bracelet creator](https://github.com/Marconino/BraceletCreator), in Unity/Shopify for [Stylenza](https://stylenzamineraux.fr/) crystal shop
 #### 🟧 [Procedural map generation](https://github.com/Marconino/ProceduralGeneration) in Unity, using Marching Cubes algorithm 
 #### 🟩 [Save system in JSON](https://github.com/Marconino/JsonSerialization) in Unity, using C# reflection
 
